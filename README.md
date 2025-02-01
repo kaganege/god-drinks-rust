@@ -1,2 +1,2 @@
 # GodDrinksRust
-Rust implementation of Mili - world.execute(me);
+Rust rewrite of Mili - world.execute(me);
