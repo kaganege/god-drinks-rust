@@ -1,0 +1,9 @@
+[package]
+name = "god-drinks-rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kağan Ege"]
+
+[dependencies]
+casey = "0.4.2"
+rand = "0.9.0"
